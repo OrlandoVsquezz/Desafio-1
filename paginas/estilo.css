@@ -72,7 +72,7 @@ a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 650px;
+    height: 680px;
 }
 
 #imagen {
@@ -134,4 +134,129 @@ hr {
     position: relative;
     top: 170px;
 
+}
+
+.blanco {
+    background-color: white;
+    height: 750px;
+}
+
+.po {
+    font-family: "Shadows Into Light", serif;
+    height: 700;
+    font-size: normal;
+    word-spacing: 15px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+.pu {
+    text-align: center;
+    position: relative;
+    top: 55px;
+    font-size: 13px;
+
+}
+
+.image {
+    width: 550px;
+    height: 350px;
+    border-radius: 3px;
+    position: relative;
+    top: 120px;
+    left: 315px;
+    cursor: pointer;
+}
+
+.image:hover {
+    box-shadow: 0 0.1rem 0.9rem rgba(0, 0, 0, 5);
+    transition: all 0.6s ease;
+}
+
+.imago {
+    width: 550px;
+    height: 350px;
+    border-radius: 3px;
+    position: relative;
+    top: 120px;
+    left: 330px;
+    cursor: pointer;
+}
+
+.imago:hover {
+    box-shadow: 0 0.1rem 0.9rem rgba(0, 0, 0, 5);
+    transition: all 0.6s ease;
+}
+
+.madri {
+    color: white;
+    position: relative;
+    left: 560px;
+    top: 80px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.madri:hover {
+    color: rgb(64, 181, 228);
+    transition: 1s;
+}
+
+.muni {
+    color: white;
+    position: relative;
+    left: 1130px;
+    top: 55px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.muni:hover {
+    color: rgb(64, 181, 228);
+    transition: 1s;
+}
+
+.estatua {
+    background-image: url(../imagenes/estatua.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 570px;
+}
+
+.poe {
+    text-align: center;
+    font-family: "Shadows Into Light", serif;
+    height: 700;
+    font-style: normal;
+    position: relative;
+    top: 150px;
+    word-spacing: 10px;
+}
+
+.pae {
+    text-align: center;
+    position: relative;
+    top: 150px;
+    font-size: 13px;
+
+
+}
+
+.popa {
+    background-color: white;
+    height: 400px;
+}
+
+.pepe {
+    text-align: center;
+    font-family: "Shadows Into Light", serif;
+    height: 700;
+    font-style: normal;
+    position: relative;
+    top: 70px;
+    word-spacing: 10px;
 }
